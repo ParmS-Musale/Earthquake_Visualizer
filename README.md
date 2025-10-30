@@ -2,7 +2,7 @@
 
 An interactive web application that visualizes real-time earthquake data from around the world. Built for geography students and seismic activity enthusiasts to understand global earthquake patterns.
 
-![Earthquake Visualizer Screenshot](./screenshot.png)
+![Earthquake Visualizer Screenshot](./src/public/image.png)
 
 ## Features
 
